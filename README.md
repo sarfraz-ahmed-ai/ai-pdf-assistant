@@ -1,5 +1,8 @@
 # AI PDF Assistant
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sarfraz-ahmed-ai/ai-pdf-assistant/blob/main/AI_PDF_Assistant_Public.ipynb)
+
+
 A free, local AI-powered PDF question-answering prototype built using Python, PyMuPDF, Ollama, and Qwen2.5.
 
 ## Overview
